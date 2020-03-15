@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://umishievi.cristianserb.net/sitemap.xml
